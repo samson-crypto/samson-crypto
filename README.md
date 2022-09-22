@@ -1,1 +1,1 @@
-# samson-crypto2
+# Samson Wu, Lead software engineer @cryptocom
