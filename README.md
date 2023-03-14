@@ -1,1 +1,1 @@
-# Samson Wu, Lead software engineer @cryptocom
+# Samson Wu, Lead blockchain engineering @cryptocom
